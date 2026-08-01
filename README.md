@@ -1,4 +1,4 @@
-Hi there, I'm ThinhLe👋
+Hi, I'm ThinhLe👋
 
 
 <!--
